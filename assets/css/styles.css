@@ -1,6 +1,6 @@
-/* This file contains the style specifications for my HelloWorld website.
+/* This file contains the style specifications for my View Source website.
 Author: Caroline Sigl
-Date: August 29, 2021
+Date: September 1, 2021
 Time spent: 3 hours
 Collaborators: n/a */
 
@@ -24,7 +24,7 @@ header {
   padding-bottom: 13px;
 }
 
-span {
+h3 {
   color: #006400;
   font-style: italic;
 }
@@ -37,33 +37,6 @@ ul{
    list-style:square;
 }
 
-blockquote{
-  /* margin-left: 400px; */
-  /* margin-right: 400px;
-  border-style: dotted;
-  border-width: 4px;
-  border-color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 10px; */
-  color: #006400;
-  font-style: italic;
-  width: 50%;
-  height: 50%;
-  float: left;
-}
-
 .dog{
-  color: red;
-  width: 50%;
-  height: 50%
-  float: right;
-  align: center;
+  color: black;
 }
-
-pre{
-  width: 50%;
-  height: 50%
-  float: right;
-}
-/* css */
